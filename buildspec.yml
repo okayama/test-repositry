@@ -6,4 +6,3 @@ phases:
   build:
     commands:
       - php -v
-artifacts:
